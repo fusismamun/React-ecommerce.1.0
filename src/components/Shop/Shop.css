@@ -1,0 +1,40 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 10px;
+}
+.product-container {
+    margin-left: 50px;
+    margin-right: 10px;
+    border-right: 2px solid #242b35;
+}
+.cart-container {
+    text-align: center;
+    color: #fff;
+}
+.cart-container h3 {
+    font-size: 25px;
+}
+.cart-container h5{
+    font-size: 18px;
+}
+.cart-cont {
+    position: fixed;
+    background-color: #242b35;
+    padding: 20px;
+    padding-bottom: 70px;
+    border: 1px solid #ff0000;
+
+}
+.search-container {
+    background-color: #242b35cc;
+    text-align: center;
+    line-height: 50px;
+    
+}
+.search-container input {
+    width: 80%;
+    height: 25px;
+    margin: 5px;
+    
+}

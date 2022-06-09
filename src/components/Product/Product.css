@@ -1,0 +1,27 @@
+.product {
+    display: flex;
+    border-bottom: 2px solid #ff00002d;
+    margin: 10px;
+}
+.product-price{
+    font-size: 20px;
+}
+.product-name {
+    color: blue;
+    font-weight: 500;
+}
+.button-cat {
+    margin-bottom: 10px;
+    width: 160px;
+    height: 35px;
+    color: #000;
+    font-weight: bold;
+    background-color: rgb(255, 166, 0);
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logos{
+    height: 30px;
+}

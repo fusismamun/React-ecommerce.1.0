@@ -1,0 +1,42 @@
+.header {
+    text-align: center;
+    background-color: aliceblue;
+    
+}
+.logo{
+    height: 100px;
+    margin: 10px;
+}
+.header nav {
+    background-color: #242b35;
+    line-height: 40px;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: left;
+    
+}
+.header nav a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+    
+}
+.header nav a:hover{
+    background-color: #ff0000;
+    border-radius: 5px;
+   
+}
+.navlogo {
+    height: 40px;
+    float: right;
+    background-color: #fff;
+    padding: 1px;
+    margin-right: 150px;
+    cursor: pointer;
+}
+.shop-nav {
+    margin-left: 50px;
+}
